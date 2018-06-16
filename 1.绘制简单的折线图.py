@@ -17,5 +17,7 @@ plt.tick_params(axis="both",labelsize=14)
 plt.show()
 
 print("game over")
+print("我是来找茬的")
+
 
 
