@@ -12,3 +12,4 @@ plt.ylabel("Square of Values",fontsize=14)
 plt.tick_params(axis='both',which='major',labelsize=14)
 
 plt.show()
+print("game over)
