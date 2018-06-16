@@ -18,5 +18,5 @@ plt.show()
 
 print("game over")
 print("我是来找茬的")
-
+print("我接着找茬")
 
